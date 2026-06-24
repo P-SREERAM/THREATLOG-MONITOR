@@ -1,0 +1,2 @@
+2026-06-24 17:24:08 [CRITICAL] Possible Brute Force Attack from 192.168.1.10 (3 failed logins)
+2026-06-24 17:24:08[WARNING] Possible Port Scan from 192.168.1.15 (2 port scan events)
