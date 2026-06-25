@@ -12,13 +12,7 @@ Threat Log Monitor is a Python-based cybersecurity automation project that analy
 - Alert Generation
 - Timestamped Alerts
 
-## Project Structure
 
-ThreatLog-Monitor/
-├── logs/
-├── alerts/
-├── threat_monitor.py
-├── rules.py
 
 ## How to Run
 
